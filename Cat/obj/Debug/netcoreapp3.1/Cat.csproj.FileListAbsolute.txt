@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\OOPChallenges\Cat\bin\Debug\netcoreapp3.1\Cat.exe
+C:\Users\opilane\source\repos\OOPChallenges\Cat\bin\Debug\netcoreapp3.1\Cat.deps.json
+C:\Users\opilane\source\repos\OOPChallenges\Cat\bin\Debug\netcoreapp3.1\Cat.runtimeconfig.json
+C:\Users\opilane\source\repos\OOPChallenges\Cat\bin\Debug\netcoreapp3.1\Cat.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\OOPChallenges\Cat\bin\Debug\netcoreapp3.1\Cat.dll
+C:\Users\opilane\source\repos\OOPChallenges\Cat\bin\Debug\netcoreapp3.1\Cat.pdb
+C:\Users\opilane\source\repos\OOPChallenges\Cat\obj\Debug\netcoreapp3.1\Cat.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\OOPChallenges\Cat\obj\Debug\netcoreapp3.1\Cat.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\OOPChallenges\Cat\obj\Debug\netcoreapp3.1\Cat.AssemblyInfo.cs
+C:\Users\opilane\source\repos\OOPChallenges\Cat\obj\Debug\netcoreapp3.1\Cat.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\OOPChallenges\Cat\obj\Debug\netcoreapp3.1\Cat.dll
+C:\Users\opilane\source\repos\OOPChallenges\Cat\obj\Debug\netcoreapp3.1\Cat.pdb
+C:\Users\opilane\source\repos\OOPChallenges\Cat\obj\Debug\netcoreapp3.1\Cat.genruntimeconfig.cache
